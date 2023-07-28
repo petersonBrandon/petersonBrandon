@@ -28,5 +28,5 @@ Want to know more about me? [Check out my portfolio.](https://www.brandonpeterso
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/-NEXTjs-ffffff?logo=nextdotjs&logoColor=000000&style=flat)
-![](https://img.shields.io/badge/-ReactJs-ffffff?logo=react&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-NEXTjs-000000?logo=nextdotjs&logoColor=ffffff&style=flat)
+![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
