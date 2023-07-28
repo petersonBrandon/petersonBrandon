@@ -28,5 +28,18 @@ Want to know more about me? [Check out my portfolio.](https://www.brandonpeterso
 
 ## 💼 Skills
 
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=ffffff&style=flat)
+![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=ffffff&style=flat)
+![](https://img.shields.io/badge/-NodeJs-339933?logo=nodedotjs&logoColor=ffffff&style=flat)
 ![](https://img.shields.io/badge/-NEXTjs-000000?logo=nextdotjs&logoColor=ffffff&style=flat)
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-ReactNative-61DAFB?logo=react&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![](https://img.shields.io/badge/-Jira-0052CC?logo=jirasoftware&logoColor=white&style=flat)
