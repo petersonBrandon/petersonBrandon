@@ -2,9 +2,9 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/brandon-peterson-194572198/)
 
-Hey there 👋
+Hello there 👀
 
-I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I'm Brandon! I am an full stack web and mobile developer. I focus on designing and developing user friendly, ligtning quick applications. 
 
 Want to know more about me? [Check out my portfolio.](https://www.brandonpeterson.dev/)
 
