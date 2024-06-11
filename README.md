@@ -2,11 +2,26 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/brandon-peterson-194572198/)
 
-Hello there 👀
+### About Me
 
-I'm Brandon! I am an full stack web and mobile developer. I focus on designing and developing user friendly, ligtning quick applications.
+I'm a passionate software engineer with a Bachelor's degree in Software Engineering from Brigham Young University - Idaho. With a strong foundation in both front-end and back-end development, I enjoy tackling real-world challenges through innovative solutions and cutting-edge technologies.
 
-Want to know more about me? [Check out my portfolio.](https://www.brandonpeterson.dev/)
+#### Professional Experience
+
+Currently, I work as a Senior Automation Engineer in Test at Digital Dream Forge. Here, I optimize testing and release processes, implement CI/CD pipelines, and ensure the integrity and reliability of software products. My role involves close collaboration with developers and stakeholders to deliver high-quality software.
+
+Previously, as an IT Service Desk Technician at Melaleuca Inc., I maintained company equipment, resolved technical issues, and managed technical assets, contributing to efficient and uninterrupted operations.
+
+#### Skills
+
+- **Languages:** Java, JavaScript, TypeScript, HTML, CSS, Python
+- **Frameworks:** React, NEXT.js, TailwindCSS
+- **Tools & Technologies:** Git, Jira
+- **Databases:** PostgreSQL, NoSQL
+- **Development Methodologies:** Agile, Scrum
+- **General:** Full Stack Development, Object-Oriented Development, Team Collaboration
+
+Want to know more about me? [Check out my website.](https://www.brandonpeterson.dev/)
 
 <br>
 <br>
