@@ -12,34 +12,7 @@ Currently, I work as a Senior Automation Engineer in Test at Digital Dream Forge
 
 Previously, as an IT Service Desk Technician at Melaleuca Inc., I maintained company equipment, resolved technical issues, and managed technical assets, contributing to efficient and uninterrupted operations.
 
-#### Skills
-
-- **Languages:** Java, JavaScript, TypeScript, HTML, CSS, Python
-- **Frameworks:** React, NEXT.js, TailwindCSS
-- **Tools & Technologies:** Git, Jira
-- **Databases:** PostgreSQL, NoSQL
-- **Development Methodologies:** Agile, Scrum
-- **General:** Full Stack Development, Object-Oriented Development, Team Collaboration
-
 Want to know more about me? [Check out my website.](https://www.brandonpeterson.dev/)
-
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/petersonbrandon">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonbrandon&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<!-- <a href="https://github.com/petersonbrandon">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=petersonbrandon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Brandon's GitHub Stats" />
-</a> -->
-
-<br>
-<br>
 
 ## 💼 Skills
 
@@ -70,3 +43,15 @@ Want to know more about me? [Check out my website.](https://www.brandonpeterson.
 ![](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Cucmber-23D96C?logo=cucumber&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat)
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/petersonbrandon">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonbrandon&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<!-- <a href="https://github.com/petersonbrandon">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=petersonbrandon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Brandon's GitHub Stats" />
+</a> -->
